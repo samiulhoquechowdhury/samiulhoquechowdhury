@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **ML and React Native**
 
-- 💬 Ask me about **React, MERN, ML**
+- 💬 Ask me about **MERN, ML**
 
 - 📫 How to reach me **samiulofficalworkd@gmail.com**
 
