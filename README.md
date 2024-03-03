@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN, ML**
 
-- 📫 How to reach me **samiulofficalworkd@gmail.com**
+- 📫 How to reach me **samiulofficalworks@gmail.com**
 
 - ⚡ Fun fact **The first computer bug was an actual insect! In 1947, Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, coining the term "debugging."**
 
