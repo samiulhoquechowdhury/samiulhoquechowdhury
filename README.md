@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **a game**
 
-- 🌱 I’m currently learning **ML and React Native**
+- 🌱 I’m currently learning **Go lang**
 
 - 💬 Ask me about **MERN, ML**
 
