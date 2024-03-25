@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/samiul_018" target="blank"><img src="https://img.shields.io/twitter/follow/samiul_018?logo=twitter&style=for-the-badge" alt="samiul_018" /></a> </p>
 
-- 🔭 I’m currently working on **a game**
+- 🔭 I’m currently working on **Backends**
 
 - 🌱 I’m currently learning **Go lang**
 
