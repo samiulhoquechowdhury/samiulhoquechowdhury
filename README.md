@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Tech Enthusiast | Lifelong Learner | Builder of Ideas
 
-I'm a curious mind in the world of tech, always eager to dive deeper and push the boundaries of what's possible. Currently pursuing my B.Tech in CSE, I'm obsessed with exploring and building real-world applications that solve problems and bring value.
+I am Samiul Hoque Chowdhury, I'm a curious mind in the world of tech, always eager to dive deeper and push the boundaries of what's possible. Currently pursuing my B.Tech in CSE, I'm obsessed with exploring and building real-world applications that solve problems and bring value.
 
 My journey is all about discovery and constant growth. I love tackling challenges, whether it's designing backend systems, enhancing user experiences, or optimizing workflows. For me, it's not just about coding—it's about creating efficient, scalable solutions that have a real-world impact.
 
