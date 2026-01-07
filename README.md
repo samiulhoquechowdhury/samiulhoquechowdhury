@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨‍💻 Tech Enthusiast | Lifelong Learner | Builder of Ideas
+# About Me:
+Tech Enthusiast | Lifelong Learner | Builder of Ideas
 
 I am Samiul Hoque Chowdhury, I'm a curious mind in the world of tech, always eager to dive deeper and push the boundaries of what's possible. Currently pursuing my B.Tech in CSE, I'm obsessed with exploring and building real-world applications that solve problems and bring value.
 
