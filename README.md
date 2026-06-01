@@ -113,7 +113,7 @@ const samiul = {
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=samiulhoquechowdhury&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=samiulhoquechowdhury&theme=midnight-purple&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" />
+  <!-- <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=samiulhoquechowdhury&theme=midnight-purple&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" /> -->
 </div>
 
 <div align="center">
