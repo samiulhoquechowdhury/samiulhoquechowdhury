@@ -117,7 +117,7 @@ const samiul = {
 </div>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiulhoquechowdhury&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+  <!-- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiulhoquechowdhury&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" /> -->
 </div>
 
 ---
@@ -133,7 +133,7 @@ const samiul = {
 ## 🔝 Most Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=samiulhoquechowdhury&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=samiulhoquechowdhury&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=A78BFA" /> -->
 </div>
 
 ---
